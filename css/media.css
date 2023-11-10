@@ -1,0 +1,336 @@
+/*
+=============
+Extra_small 
+=============
+ */
+
+@media
+    (max-width:575.98px) 
+{
+/*header_start*/
+.menu_bar ul li a 
+{padding: 5px 5px !important; text-align: end;}
+.menu_bar ul li:last-child a
+{padding-right: 5px !important;}
+.menu_bar 
+{padding-top: 30px;}
+.font_icon 
+{padding: 0; border: 0;}
+.won_btn
+{border: 0;}
+.form-control 
+{border-bottom: 1px solid black; border-radius: 0;}
+.nav_logo 
+{width: 175px;}
+/* header_end */
+/* banner1_start */
+.artical 
+{transform: translate(-8px, -103%);}
+.artical h1
+{font-size: 20px;}
+.artical p 
+{margin: 0; padding: 0; transform: translate(0, 0); font-size: 10px; line-height: 15px;}
+.f_wh 
+{padding: 0; transform: translate(0, 0);}
+.f_wh 
+{font-size: 8px;}
+/* banner1_end */
+/* banner2_start */
+.for_content p 
+{margin: 15px 0 112px; padding: 0; font-size: 10px;}
+.border_logo 
+{width: 210px !important;}
+.sitemp 
+{transform: translate(0, -206pt);}
+.contentin 
+{bottom: 210pt;}
+.line 
+{margin: 10px auto;}
+.contentin p
+{margin: 0; padding: 0 55px; font-size: 11px; line-height: 25px;}
+.contentin h3 
+{margin: 15pt 0; font-size: 15px;}
+.contentin h3 i 
+{margin: 0 6px;}
+/* banner2_end */
+/* banner3_start */
+.b3_content 
+{padding: 80px 0; font-size: 25px; text-align: center;}
+.b3_content p
+{font-size: 14px;}
+.f_b 
+{height: 35px; padding: 5px 20px; font-size: 14px;}
+/* banner3_end */
+/* banner4_start */
+.banner4
+{padding: 50px;}
+.recent_work h2 
+{font-size: 18px;}
+.for_pad 
+{padding-bottom: 8vh;}
+.cont_my h2 
+{padding: 5px 0 18px; top: 90.1%; font-size: 14px;}
+.cont_my p 
+{top: 78%; font-size: 10px;}
+/* banner4_end */
+}
+
+/*
+=============
+small 
+=============
+ */
+
+@media
+    (min-width:576px) and (max-width: 767.98px) 
+{
+/*header_start*/
+.menu_bar ul li a 
+{padding: 5px 5px !important; text-align: end;}
+.menu_bar ul li:last-child a
+{padding-right: 5px !important;}
+.menu_bar 
+{padding-top: 30px;}
+.font_icon 
+{padding: 0; border: 0;}
+.won_btn
+{border: 0;}
+.form-control 
+{border-bottom: 1px solid black; border-radius: 0;}
+.nav_logo 
+{width: 175px;}
+/* header_end */
+/* banner1_start */
+.artical 
+{transform: translate(0, -140%);}
+.artical h1
+{font-size: 35px;}
+.artical p 
+{margin: 0; padding: 0 25px; transform: translate(-24px, 0); font-size: 12px; line-height: 25px;}
+.f_wh 
+{padding: 0; transform: translate(0, 10px);}
+/* banner1_end */
+/* banner2_start */
+.for_content h1 
+{font-size: 30px;}
+.for_content p 
+{font-size: 13px;}
+.border_logo 
+{width: 210px !important;}
+.sitemp 
+{transform: translate(0, -206pt);}
+.contentin 
+{bottom: 210pt;}
+.line 
+{margin: 10px auto;}
+.contentin p
+{margin: 0; padding: 0 165px; font-size: 11px; line-height: 25px;}
+.contentin h3 
+{margin: 15pt 0; font-size: 15px;}
+.contentin h3 i 
+{margin: 0 6px;}
+/* banner2_end */
+/* banner3_start */
+.b3_content 
+{padding: 80px 0; font-size: 25px; text-align: center;}
+.b3_content p
+{font-size: 14px;}
+.f_b 
+{height: 35px; padding: 5px 20px; font-size: 14px;}
+/* banner3_end */
+/* banner4_start */
+.for_pad
+{padding-bottom: 14vh;}
+.cont_my h2 
+{padding: 12px 0 35px; top: 92%;}
+.cont_my p 
+{top: 95%;}
+/* banner4_end */
+}
+
+/*
+============= 
+midiam 
+=============
+*/
+
+@media
+    (min-width:768px) and (max-width: 991.98px) 
+{
+/*header_start*/
+.menu_bar ul li a 
+{padding: 5px 5px !important; text-align: end;}
+.menu_bar ul li:last-child a
+{padding-right: 5px !important;}
+.menu_bar 
+{padding-top: 30px;}
+.font_icon 
+{padding: 0; border: 0;}
+.won_btn
+{border: 0;}
+.form-control 
+{border-bottom: 1px solid black; border-radius: 0;}
+/* header_end */
+/* banner1_start */
+.artical 
+{transform: translate(0, -145%);}
+.artical h1
+{font-size: 40px;}
+.artical p 
+{padding: 0 75px; transform: translate(-75px, 0);}
+.f_wh 
+{padding: 0; transform: translate(0, 10px);}
+/* banner1_end */
+/* banner2_start */
+.border_logo 
+{width: 285px !important;}
+.sitemp 
+{transform: translate(0, -270pt);}
+.contentin 
+{bottom: 275pt;}
+.line 
+{margin: 25px auto;}
+.contentin p
+{margin: 0; padding: 0 53px 13pt; font-size: 16px;}
+.contentin h3 
+{margin: 15pt 0; font-size: 15px;}
+.contentin h3 i 
+{margin: 0 6px;}
+/* banner2_end */
+/* banner3_start */
+.b3_content 
+{padding: 80px 5px; text-align: center;}
+/* banner3_end */
+/* banner4_start */
+.for_pad
+{padding-bottom: 20vh;}
+.cont_my h2 
+{padding: 12px 0 35px; position: absolute; top: 95%;}
+.cont_my p 
+{position: absolute; top: 97%;}
+/* banner4_end */
+}
+
+/*
+=============
+larg 
+=============
+*/
+
+@media
+    (min-width:992px) and (max-width: 1199.98px) 
+{
+/*header_start*/
+.menu_bar ul li a 
+{padding: 5px 5px !important; text-align: end;}
+.menu_bar ul li:last-child a
+{padding-right: 5px !important;}
+.menu_bar 
+{padding-top: 30px;}
+.font_icon 
+{padding: 0; border: 0;}
+.won_btn
+{border: 0;}
+.form-control 
+{border-bottom: 1px solid black; border-radius: 0;}
+/* header_end */
+/* banner1_start */
+.artical
+{transform: translate(0, -165%);}
+.artical h1 
+{font-size: 54px;}
+.artical p 
+{padding: 0 200px; transform: translate(-200px, 0);}
+.f_wh 
+{transform: translate(0, 30px);}
+/* banner1_end */
+/* banner2_start */
+.sitemp 
+{transform: translate(0, -206pt);}
+.contentin 
+{bottom: 210pt;}
+.line 
+{margin: 10px 82px;}
+.contentin p
+{margin: 0; padding: 0 10px; font-size: 14px;}
+.contentin h3 
+{margin: 15pt 0; font-size: 15px;}
+.contentin h3 i 
+{margin: 0 6px;}
+/* banner2_end */
+/* banner3_start */
+.relex_bimg 
+{padding: 0;}
+.b3_content 
+{padding-left: 40px;}
+/* banner3_end */
+/* banner4_start */
+.banner4
+{padding: 135px; background-color: #f8f8f8;}
+.item_menus 
+{padding: 45px 0 0;}
+.cont_my h2 
+{top: 87.5%; transform: translate(4%, 47%); padding: 12px 0 24px;}
+.cont_my p 
+{top: 86%;}
+/* banner4_end */
+}
+
+/*
+=============
+Extra_larg 
+=============
+*/
+
+@media
+    (min-width:1200px) and (max-width: 1399.98px) 
+{
+/* header_start */
+.menu ul li a
+{padding: 0 40px !important;}
+/* header_end */
+/* banner1_start */
+.artical
+{transform: translate(0, -200%);}
+.artical h1
+{font-size: 50px;}
+.artical p
+{font-size: 13px; line-height: 25px !important;}
+.f_wh 
+{transform: translate(0, 15px);}
+/* banner1_end */
+/* banner2_start */
+.sitemp 
+{transform: translate(0, -245pt);}
+.contentin 
+{bottom: 225pt;}
+.line 
+{margin: 20px 105px;}
+.contentin p
+{margin: 0; padding: 0 10px;}
+/* banner2_end */
+/* banner3_start */
+.relex_bimg 
+{padding: 0;}
+/* banner3_end */
+/* banner4_start */
+.cont_my h2 
+{top: 89%; transform: translate(4%, 49%); padding: 27px 0;}
+.cont_my p 
+{top: 96%;}
+/* banner4_end */
+}
+
+/*
+=============
+Extra_Extra_larg 
+=============
+*/
+
+@media
+    (min-width:1400px) 
+{
+/* banner_1 */
+
+/* banner_1 */
+}
